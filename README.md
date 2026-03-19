@@ -45,7 +45,7 @@ const me = {
 
 ## ⚡ Tech Stack
 
-### 🤖 AI & Automation *(newly added)*
+### 🤖 AI & Automation 
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Workflows-388bfd?style=for-the-badge&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-388bfd?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-388bfd?style=for-the-badge&logoColor=white)
@@ -103,7 +103,7 @@ Automates course content creation and quiz generation to assess and track studen
 
 ---
 
-### ◆ Digital Quotation App
+### ◆ Product Worksheet + Digital Quotation App
 > `Agentic AI Bootcamp · Bootcamp Project`
 
 AI-powered quotation system that automates product worksheet generation and streamlines business pricing workflows. Integrated AI capabilities to enhance accuracy and reduce manual effort.
