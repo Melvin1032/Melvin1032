@@ -6,7 +6,6 @@
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+John+Melvin+Macabeo+%F0%9F%91%8B;Web+Developer;AI+%26+Automation+Builder;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </h1>
-
 ```
 // Full Stack Developer · AI & Automation · UI/UX Design
 ```
@@ -25,7 +24,6 @@ Agentic AI to create practical, real-world solutions. 🇵🇭 Candon City, Iloc
 ---
 
 ## 🧑‍💻 About Me
-
 ```ts
 const me = {
   name:      "John Melvin R. Macabeo",
@@ -58,6 +56,7 @@ const me = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
@@ -66,6 +65,8 @@ const me = {
 ![Qwen](https://img.shields.io/badge/Qwen-4A90D9?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Qoder](https://img.shields.io/badge/Qoder-222222?style=for-the-badge&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -119,7 +120,7 @@ AI-powered quotation system that automates product worksheet generation and stre
 Full-stack Resource Management System for ISPSC Candon Campus — digitizing resource tracking, inventory management, and supply office operations. Built with a focus on reliability and usability.
 
 **Stack:** `JavaScript` `PHP` `MySQL` `Bootstrap`
-**Role:** 👑 Team Leader & Lead Developer
+**Role:** 📋 Project Manager & Lead Developer
 
 ---
 
