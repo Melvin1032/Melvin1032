@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+John+Melvin+Macabeo+%F0%9F%91%8B;Web+Developer;AI+%26+Automation+Builder;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </h1>
 ```
-// Full Stack Developer · AI & Automation · UI/UX Design
+// Web Developer· AI & Automation · UI/UX Design
 ```
 
 <p>Building full-stack web systems, designing clean interfaces, and leveraging<br>
@@ -27,7 +27,7 @@ Agentic AI to create practical, real-world solutions. 🇵🇭 Candon City, Iloc
 ```ts
 const me = {
   name:      "John Melvin R. Macabeo",
-  role:      "Full Stack Developer · AI Developer",
+  role:      "Web Developer · AI Developer",
   school:    "ISPSC – Candon Campus (Graduating May 2026)",
   location:  "Candon City, Ilocos Sur, Philippines 🇵🇭",
   focus:     ["Web Dev", "UI/UX Design", "Agentic AI", "Workflow Automation"],
