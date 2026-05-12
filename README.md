@@ -24,7 +24,7 @@ const johnMelvin = {
   name:        "John Melvin R. Macabeo",
   role:        "Full-Stack Developer · AI & Automation Builder",
   degree:      "BS Information Technology — Web & Mobile Development",
-  school:      "Ilocos Sur Polytechnic State College (ISPSC – Candon Campus)",
+  school:      "Ilocos Sur Polytechnic State College (Candon Campus)",
   honor:       "🏅 Cum Laude",
   graduated:   "May 2026",
   location:    "Candon City, Ilocos Sur, Philippines 🇵🇭",
@@ -43,7 +43,7 @@ const johnMelvin = {
 
 | 🏫 Institution | 📚 Degree | 🏅 Distinction | 📅 Year |
 |---|---|---|---|
-| Ilocos Sur Polytechnic State College - Candon Campus | BS Information Technology — Web & Mobile Development | **Cum Laude** | May 2026 |
+| Ilocos Sur Polytechnic State College (Candon Campus) | BS Information Technology — Web & Mobile Development | **Cum Laude** | May 2026 |
 
 ---
 
@@ -152,7 +152,7 @@ AI-powered quotation system that automates product worksheet generation and stre
 ---
 
 ### ◆ ISPSC Candon Campus Supply Office RMS
-> `Capstone Project — BS IT`
+> `Capstone Project — ISPSC - Candon Campus`
 
 Full-stack **Resource Management System** for ISPSC Candon Campus — digitizing resource tracking, inventory management, and supply office operations. Built with a focus on reliability, usability, and institutional adoption.
 
@@ -163,6 +163,24 @@ Full-stack **Resource Management System** for ISPSC Candon Campus — digitizing
 ---
 
 ## 🏅 Certifications & Training
+
+### 🎓 Industry Certifications
+
+<div align="center">
+
+[![IT Specialist - HTML and CSS](https://img.shields.io/badge/IT%20Specialist%20%7C%20HTML%20%26%20CSS-Certiport%20%7C%20Pearson%20VUE-0078D4?style=for-the-badge&logo=html5&logoColor=white)](https://www.credly.com/badges/af318741-caf5-4837-9e86-2c6544b28edf/linked_in?t=tdf16t)
+
+</div>
+
+| 🏆 Certification | 🏢 Issuer | 📅 Issued | 🔗 Verify |
+|---|---|---|---|
+| **IT Specialist — HTML and CSS** | Certiport, a Pearson VUE business | April 2026 | [View Badge ↗](https://www.credly.com/badges/af318741-caf5-4837-9e86-2c6544b28edf/linked_in?t=tdf16t) |
+
+> Demonstrates the ability to structure webpages using HTML elements and create and apply professional styles using CSS.
+
+---
+
+### 🤖 AI & Automation Training
 
 **Bayanaihan AI para sa Bayan — On-the-Job Training Program**
 
