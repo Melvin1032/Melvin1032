@@ -24,7 +24,7 @@ const johnMelvin = {
   name:        "John Melvin R. Macabeo",
   role:        "Full-Stack Developer · AI & Automation Builder",
   degree:      "BS Information Technology — Web & Mobile Development",
-  school:      "Ilocos Sur Polytechnic State College (Candon Campus)",
+  school:      "Ilocos Sur Polytechnic State College (ISPSC – Candon Campus)",
   honor:       "🏅 Cum Laude",
   graduated:   "May 2026",
   location:    "Candon City, Ilocos Sur, Philippines 🇵🇭",
@@ -41,9 +41,9 @@ const johnMelvin = {
 
 ## 🎖️ Education & Honors
 
-| 🏫 Institution | 📚 Degree | 🏅 Distinction | 📅 Year |
+| 🏫 Institution | 📚 Degree | 🏅 College Award | 📅 Year |
 |---|---|---|---|
-| Ilocos Sur Polytechnic State College (Candon Campus) | BS Information Technology — Web & Mobile Development | **Cum Laude** | May 2026 |
+| Ilocos Sur Polytechnic State College | BS Information Technology — Web & Mobile Development | **Cum Laude** | May 2026 |
 
 ---
 
@@ -152,7 +152,7 @@ AI-powered quotation system that automates product worksheet generation and stre
 ---
 
 ### ◆ ISPSC Candon Campus Supply Office RMS
-> `Capstone Project — ISPSC - Candon Campus`
+> `Capstone Project — BS IT`
 
 Full-stack **Resource Management System** for ISPSC Candon Campus — digitizing resource tracking, inventory management, and supply office operations. Built with a focus on reliability, usability, and institutional adoption.
 
@@ -166,9 +166,9 @@ Full-stack **Resource Management System** for ISPSC Candon Campus — digitizing
 
 ### 🎓 Industry Certifications
 
-<div align="center">
+<div align="left">
 
-[![IT Specialist - HTML and CSS](https://img.shields.io/badge/IT%20Specialist%20%7C%20HTML%20%26%20CSS-Certiport%20%7C%20Pearson%20VUE-0078D4?style=for-the-badge&logo=html5&logoColor=white)](https://www.credly.com/badges/af318741-caf5-4837-9e86-2c6544b28edf/linked_in?t=tdf16t)
+[![IT Specialist - HTML and CSS](https://images.credly.com/size/340x340/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png)](https://www.credly.com/badges/af318741-caf5-4837-9e86-2c6544b28edf/linked_in?t=tdf16t)
 
 </div>
 
