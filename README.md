@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3e5a,100:388bfd&height=140&section=header&text=John%20Melvin%20Macabeo&fontSize=36&fontColor=58A6FF&fontAlignY=60&desc=Web%20Developer%20%7C%20AI%20Builder%20%7C%20Cum%20Laude&descAlignY=80&descSize=16&descColor=cdd9e5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3e5a,100:388bfd&height=140&section=header&text=John%20Melvin%20Macabeo&fontSize=36&fontColor=58A6FF&fontAlignY=60&desc=Web%20Developer%20%7C%20AI%20Builder%20%7C%20Graphic%20Designer&descAlignY=80&descSize=16&descColor=cdd9e5" width="100%"/>
 
 <div align="center">
 
@@ -43,7 +43,7 @@ const johnMelvin = {
 
 | 🏫 Institution | 📚 Degree | 🏅 Distinction | 📅 Year |
 |---|---|---|---|
-| Ilocos Sur Polytechnic State College | BS Information Technology — Web & Mobile Development | May 2026 |
+| Ilocos Sur Polytechnic State College - Candon Campus | BS Information Technology — Web & Mobile Development | **Cum Laude** | May 2026 |
 
 ---
 
@@ -105,7 +105,10 @@ const johnMelvin = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Melvin1032&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/Commits-Active-388bfd?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-Growing-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Level-Junior%20Dev-58a6ff?style=for-the-badge&logo=codeberg&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Open%20to-Collaborate-388bfd?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
 
@@ -212,6 +215,6 @@ Full-stack **Resource Management System** for ISPSC Candon Campus — digitizing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f3e5a,100:0d1117&height=100&section=footer" width="100%"/>
 
-<sub><code>~/Melvin1032 · BSIT (Web & Mobile Dev) · ISPSC · Candon City, Ilocos Sur, Philippines 🇵🇭</code></sub>
+<sub><code>~/Melvin1032 · BS IT (Web & Mobile Dev) · Cum Laude · ISPSC · Candon City, Ilocos Sur, Philippines 🇵🇭</code></sub>
 
 </div>
