@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BSc+Information+Technology+%7C+Cum+Laude+%F0%9F%8F%85;Web+%26+Mobile+Development+Graduate;Full-Stack+Developer+%26+AI+Builder;Open+to+Work+%E2%80%94+Hire+Me!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Information+Technology+%7C+Cum+Laude+%F0%9F%8F%85;Web+%26+Mobile+Development+Graduate;Full-Stack+Developer+%26+AI+Builder;Open+to+Work+%E2%80%94+Hire+Me!+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 const johnMelvin = {
   name:        "John Melvin R. Macabeo",
   role:        "Full-Stack Developer · AI & Automation Builder",
-  degree:      "BSc Information Technology — Web & Mobile Development",
+  degree:      "BS Information Technology — Web & Mobile Development",
   school:      "Ilocos Sur Polytechnic State College (ISPSC – Candon Campus)",
   honor:       "🏅 Cum Laude",
   graduated:   "May 2026",
@@ -35,7 +35,7 @@ const johnMelvin = {
 };
 ```
 
-> 🎓 **Cum Laude graduate** with a BSc in Information Technology (Web & Mobile Development) from ISPSC. Creative and technically driven developer with a strong foundation in **Full-Stack Web Development**, **UI/UX Design**, and **AI & Automation**. Trained in AI workflows through the **Bayanaihan AI para sa Bayan OJT Program** — adept at leveraging Agentic AI, Generative AI, and Prompt Engineering to ship real-world products fast.
+> 🎓 **Cum Laude graduate** with a BS in Information Technology (Web & Mobile Development) from ISPSC. Creative and technically driven developer with a strong foundation in **Full-Stack Web Development**, **UI/UX Design**, and **AI & Automation**. Trained in AI workflows through the **Bayanaihan AI para sa Bayan OJT Program** — adept at leveraging Agentic AI, Generative AI, and Prompt Engineering to ship real-world products fast.
 
 ---
 
@@ -43,7 +43,7 @@ const johnMelvin = {
 
 | 🏫 Institution | 📚 Degree | 🏅 Distinction | 📅 Year |
 |---|---|---|---|
-| Ilocos Sur Polytechnic State College | BSc Information Technology — Web & Mobile Development | **Cum Laude** | May 2026 |
+| Ilocos Sur Polytechnic State College | BS Information Technology — Web & Mobile Development | May 2026 |
 
 ---
 
@@ -149,7 +149,7 @@ AI-powered quotation system that automates product worksheet generation and stre
 ---
 
 ### ◆ ISPSC Candon Campus Supply Office RMS
-> `Capstone Project — BSc IT`
+> `Capstone Project — BS IT`
 
 Full-stack **Resource Management System** for ISPSC Candon Campus — digitizing resource tracking, inventory management, and supply office operations. Built with a focus on reliability, usability, and institutional adoption.
 
@@ -212,6 +212,6 @@ Full-stack **Resource Management System** for ISPSC Candon Campus — digitizing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f3e5a,100:0d1117&height=100&section=footer" width="100%"/>
 
-<sub><code>~/Melvin1032 · BSc IT (Web & Mobile Dev) · Cum Laude · ISPSC · Candon City, Ilocos Sur, Philippines 🇵🇭</code></sub>
+<sub><code>~/Melvin1032 · BSIT (Web & Mobile Dev) · ISPSC · Candon City, Ilocos Sur, Philippines 🇵🇭</code></sub>
 
 </div>
